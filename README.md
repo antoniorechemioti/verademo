@@ -1,5 +1,8 @@
 # VeraDemo - Blab-a-Gag
 
+![](https://i0.wp.com/tvaztecaguate.com/wp-content/uploads/2024/04/mapache-pedro.gif)
+
+
 ## About
 
 Blab-a-Gag is a fairly simple forum type application which allows:
