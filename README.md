@@ -1,6 +1,6 @@
 # VeraDemo - Blab-a-Gag
 
-![](https://i0.wp.com/tvaztecaguate.com/wp-content/uploads/2024/04/mapache-pedro.gif)
+![](https://www.diariodecadiz.es/2022/01/08/con-la-venia/montaje-oso-video_1645655419_150137163_1200x675.jpg)
 
 
 ## About
